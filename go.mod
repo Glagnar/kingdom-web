@@ -1,5 +1,5 @@
-module github.com/bep/gallerydeluxe_starter
+module github.com/Glagnar/kingdom-web
 
-go 1.19
+go 1.21
 
 require github.com/bep/gallerydeluxe v0.11.1 // indirect
